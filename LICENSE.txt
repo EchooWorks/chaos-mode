@@ -10,4 +10,4 @@ I made this project for people to enjoy, learn from, and share. By downloading o
 5. MODIFICATIONS. You may fork and modify the project code in any way you like, but you may not re-upload your modification or share it publicly. If you develop a new feature or fix a bug and want to share it, please send it to me privately.
 6. BACK UP WORLDS BEFORE USING. This project is provided "as is". There are a number of very destructive events this project can trigger, please back up your world before using, and I am not responsible if this project breaks or corrupts your world. If you find a bug feel free to tell me.
 
-These rules apply to all verisons of the project.
+These rules apply to all verisons of Chaos Mode, including mods and datapack versions.
