@@ -1,0 +1,1 @@
+schedule clear chaos:events/cube_grow 

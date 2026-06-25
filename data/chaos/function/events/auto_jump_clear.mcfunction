@@ -1,0 +1,1 @@
+execute as @a run attribute @s minecraft:step_height base set 0.6

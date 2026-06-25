@@ -1,0 +1,20 @@
+execute store result score pet pet run random value 1..18
+
+execute if score pet pet matches 1 run function chaos:events/baby_creeper
+execute if score pet pet matches 2 run function chaos:events/baby_charged_creeper
+execute if score pet pet matches 3 run function chaos:events/baby_killer_bunny
+execute if score pet pet matches 4 run function chaos:events/baby_ghast
+execute if score pet pet matches 5 run function chaos:events/baby_pillager
+execute if score pet pet matches 6 run function chaos:events/baby_witch
+execute if score pet pet matches 7 run function chaos:events/baby_ravager
+execute if score pet pet matches 8 run function chaos:events/baby_skeleton
+execute if score pet pet matches 9 run function chaos:events/baby_bogged
+execute if score pet pet matches 10 run function chaos:events/baby_parched
+execute if score pet pet matches 11 run function chaos:events/baby_stray
+execute if score pet pet matches 12 run function chaos:events/baby_wither_skeleton
+execute if score pet pet matches 13 run function chaos:events/baby_blaze
+execute if score pet pet matches 14 run function chaos:events/baby_breeze
+execute if score pet pet matches 15 run function chaos:events/baby_vex
+execute if score pet pet matches 16 run function chaos:events/baby_evoker
+execute if score pet pet matches 17 run function chaos:events/baby_vindicator
+execute if score pet pet matches 18 run function chaos:events/baby_pillager

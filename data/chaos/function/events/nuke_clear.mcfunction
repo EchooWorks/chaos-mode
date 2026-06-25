@@ -1,0 +1,1 @@
+kill @e[type=minecraft:marker,name="radiation_cloud"]

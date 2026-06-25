@@ -1,0 +1,2 @@
+function chaos:general/decrease_chaos_level
+schedule function chaos:general/increase_chaos_level 200s

@@ -1,0 +1,1 @@
+execute if score chaos arrowstorm_timer matches 20.. run kill @e[type=arrow,name=arrowrain]

@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:chest",
+		"minecraft:trapped_chest",
+		"minecraft:ender_chest",
+		"#minecraft:shulker_boxes",
+		"#minecraft:beds",
+		"minecraft:dragon_egg",
+		"minecraft:spawner",
+		"minecraft:trial_spawner",
+		"minecraft:vault",
+		"minecraft:furnace",
+		"minecraft:blast_furnace",
+		"minecraft:smoker",
+		"minecraft:beacon",
+		"minecraft:brewing_stand",
+		"minecraft:enchanting_table",
+		"minecraft:anvil",
+		"#minecraft:portals",
+		"minecraft:obsidian"
+	]
+}

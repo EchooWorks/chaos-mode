@@ -1,0 +1,1 @@
+schedule clear chaos:events/smoke_cloud_effect
