@@ -1,13 +1,12 @@
 # Chaos Mode - Rules and Terms of Use
 Copyright (c) EchooWorks 
 
-I made this project for people to enjoy, learn from, and share. By downloading or looking at this code, you agree to follow these 6 rules:
+This license applies to all versions of Chaos Mode, including mod and datapack versions.
 
-1. NO REDISTRIBUTION. Do not re-upload, or mirror this project on other sites in any way. All downloads must come from official Curseforge and Modrinth pages.
-2. NO PROFITING. Do not lock this project behind a paywall or charge money for it, or make money off this project in any way. The only exceptions to this are the conditions laid out in rules 3 and 4.
-3. MODPACKS AND SERVERS. You are free to use this project in modpacks and on servers as long as said modpacks and servers are free to access. You may profit from modpacks and servers that use this project.
-4. CONTENT CREATION. You may make videos on this project and include it in any livestreams, videos, or shorts and may make ad revenue from said content. Please give credit to the project though.
-5. MODIFICATIONS. You may fork and modify the project code in any way you like, but you may not re-upload your modification or share it publicly. If you develop a new feature or fix a bug and want to share it, please send it to me privately.
-6. BACK UP WORLDS BEFORE USING. This project is provided "as is". There are a number of very destructive events this project can trigger, please back up your world before using, and I am not responsible if this project breaks or corrupts your world. If you find a bug feel free to tell me.
+1. CODE REUSE AND REDISTRIBUTION. You may view and study the code in this project for learning and educational purposes. You are welcome to use the knowledge you gain to create your own original projects. However, you may not publicly distribute forks, modified versions, copies, or mirrors of this project, nor may you substantially reuse this project's code, systems, or event implementations in another publicly distributed project. Official downloads must only be provided through the project's official CurseForge and Modrinth pages.
 
-These rules apply to all versions of Chaos Mode, including mod and datapack versions.
+2. MODPACKS AND SERVERS. You may use this project in modpacks and servers. This project must remain free and may not be sold or paywalled, but servers and modpacks may be monetized in any form.
+
+3. CONTENT CREATION. You may create and monetize videos, livestreams, and other content featuring this project. Crediting Chaos Mode and EchooWorks is appreciated but not required.
+
+DISCLAIMER: Back up your worlds before using this project. It has destructive events that can damage your worlds. EchooWorks is not responsible for any damage to your world this project may cause.
